@@ -1,0 +1,19 @@
+section{
+    display: flex;
+    justify-content: space-around;
+}
+#logo{
+    font-family: 'Tourney', cursive;   
+}
+#menu{
+    display: flex;
+    justify-content: space-around;
+    gap: 15px;
+}
+a{
+    text-decoration: none;
+
+}
+a:active{
+color: black;
+}
